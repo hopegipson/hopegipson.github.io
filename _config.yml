@@ -1,11 +1,11 @@
 # Site settings
 author: Hope Gipson
-title: 
+title: Hope Gipson's Blog
 header-img: img/home-bg.png
 email: gipson.hope@gmail.com
 copyright_name: Hope Gipson
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Programming Part Time
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  hopegipson
