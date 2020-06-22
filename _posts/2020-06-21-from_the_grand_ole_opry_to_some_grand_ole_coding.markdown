@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "From the Grand Ole Opry to some grand ole coding"
-date:       2020-06-22 03:44:15 +0000
+date:       2020-06-21 23:44:16 -0400
 permalink:  from_the_grand_ole_opry_to_some_grand_ole_coding
 ---
 
@@ -16,6 +16,4 @@ The short answer is I wasn't actually that happy, and having time to reflect all
 
 I began researching careers that had to do with coding, learning about the distinction between software engineers, data scientists, etc.  Software engineering was something I kept coming back to, and I immediately began to research programs that could train me to be successful in this field. Not only did a career in this field sound enjoyable, a career where I can use my passion for coding an creationg, but it also sounded like an opportunity for me to have more to my life than just working all the time. Careers in coding allow for a certain amount of freedom for those in those career paths, and that is something I've been lacking the past few years. 
 
-I'm proud of my decision to study at Flatiron, and to pursue coding for the long term. It's so incredibly uplifting that in a few short months, I have gone on a journey to having an industry fail on me, to receiving hope that in just ten months, I'll be in a completely new industry, that I love just as dearly. The future looks bright, and I'm excited to be studying software engineering!# Enter your title here
-
-The content of your blog post goes here.
+I'm proud of my decision to study at Flatiron, and to pursue coding for the long term. It's so incredibly uplifting that in a few short months, I have gone on a journey to having an industry fail on me, to receiving hope that in just ten months, I'll be in a completely new industry, that I love just as dearly. The future looks bright, and I'm excited to be studying software engineering!
