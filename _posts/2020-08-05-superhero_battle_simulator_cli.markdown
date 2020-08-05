@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Superhero Battle Simulator CLI"
-date:       2020-08-05 04:40:08 +0000
+date:       2020-08-05 00:40:09 -0400
 permalink:  superhero_battle_simulator_cli
 ---
 
